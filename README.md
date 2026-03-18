@@ -9,7 +9,7 @@
 <h1 align="center">Ant Maze</h1>
 
 <p align="center">
-  <img src="https://moe-counter.glitch.me/get/@8tp-antmaze?theme=rule34" alt="Views"/>
+  <img src="https://count.getloli.com/@8tp-antmaze?theme=rule34" alt="Views"/>
 </p>
 
 <p align="center">
