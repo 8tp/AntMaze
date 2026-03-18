@@ -9,6 +9,10 @@
 <h1 align="center">Ant Maze</h1>
 
 <p align="center">
+  <img src="https://moe-counter.glitch.me/get/@8tp-antmaze?theme=rule34" alt="Views"/>
+</p>
+
+<p align="center">
   <strong>A perpetual-motion maze game built with TypeScript and Canvas 2D.</strong><br>
   Guide an ant through procedurally generated mazes. Don't touch the walls.
 </p>
@@ -152,14 +156,14 @@ ant-maze/
 
 | Level | Grid | Speed (tiles/s) |
 |---|---|---|
-| 1 | 7x7 | 2.4 |
-| 2 | 9x9 | 2.55 |
-| 3 | 11x11 | 2.7 |
-| 4 | 13x13 | 2.85 |
-| 5 | 15x15 | 3.0 |
-| 6 | 17x17 | 3.15 |
-| 7 | 19x19 | 3.3 |
-| 8+ | 21x21 | 3.45 → 4.0 (cap) |
+| 1 | 7x7 | 2.0 |
+| 2 | 9x9 | 2.12 |
+| 3 | 11x11 | 2.24 |
+| 4 | 13x13 | 2.36 |
+| 5 | 15x15 | 2.48 |
+| 6 | 17x17 | 2.60 |
+| 7 | 19x19 | 2.72 |
+| 8+ | 21x21 | 2.84 → 3.5 (cap) |
 
 Speed is expressed in **tiles per second** and multiplied by the runtime tile size, ensuring identical gameplay feel across all screen sizes and devices.
 

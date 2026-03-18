@@ -2,8 +2,8 @@ import { Maze } from "./maze";
 import { Player } from "./player";
 import { Renderer } from "./renderer";
 
-/** Hitbox radius as a fraction of tileSize (60% diameter → 0.3 radius). */
-const HITBOX_RATIO = 0.3;
+/** Hitbox radius as a fraction of tileSize (46% diameter → 0.23 radius). */
+const HITBOX_RATIO = 0.23;
 
 /**
  * Shortest distance from point (px, py) to the line segment (ax,ay)→(bx,by).
